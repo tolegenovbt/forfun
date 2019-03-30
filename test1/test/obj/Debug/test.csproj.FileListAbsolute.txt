@@ -1,0 +1,14 @@
+C:\Users\11111\desktop\studyspace\c#\test\test\bin\Debug\test.exe.config
+C:\Users\11111\desktop\studyspace\c#\test\test\bin\Debug\test.exe
+C:\Users\11111\desktop\studyspace\c#\test\test\bin\Debug\test.pdb
+C:\Users\11111\desktop\studyspace\c#\test\test\obj\Debug\test.csprojAssemblyReference.cache
+C:\Users\11111\desktop\studyspace\c#\test\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+C:\Users\11111\desktop\studyspace\c#\test\test\obj\Debug\test.exe
+C:\Users\11111\desktop\studyspace\c#\test\test\obj\Debug\test.pdb
+C:\Users\11111\c#\test\test\bin\Debug\test.exe.config
+C:\Users\11111\c#\test\test\bin\Debug\test.exe
+C:\Users\11111\c#\test\test\bin\Debug\test.pdb
+C:\Users\11111\c#\test\test\obj\Debug\test.csprojAssemblyReference.cache
+C:\Users\11111\c#\test\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+C:\Users\11111\c#\test\test\obj\Debug\test.exe
+C:\Users\11111\c#\test\test\obj\Debug\test.pdb
